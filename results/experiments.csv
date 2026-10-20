@@ -1,0 +1,2 @@
+run_id,model,seed,training_steps,batch_size,context_length,embedding_size,num_heads,head_size,num_blocks,learning_rate,parameter_count,training_loss,validation_loss,training_seconds,notes
+alice_directml_checkpoint_eval_2026-10-21,TransformerLanguageModel,,,4,64,128,2,32,1,,192779,1.58737089,1.68701921,,"CPU checkpoint evaluation only; training history not stored; evaluation_seed=1337 reset immediately before evaluation; 200 random batches per split, training then validation; torch=2.14.1+cu126; sha256=33d889314eecfacad71966e5ff6bfe11bc8d6eb8b30fb95b8feaa4e4103f025b"

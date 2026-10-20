@@ -1,0 +1,18 @@
+Checkpoint: alice_directml.pt (local, not distributed)
+Checkpoint SHA-256: 33d889314eecfacad71966e5ff6bfe11bc8d6eb8b30fb95b8feaa4e4103f025b
+Device: CPU
+Prompt: Alice
+Context length: 64
+New tokens: 220
+Temperature: 0.8
+Sampling seed: 1337 (reset immediately before generate)
+PyTorch: 2.14.1+cu126
+
+Alice; but what of the was them had matter.
+This
+first you know dance, _that quitell a me the Engled
+little
+games, and be mistupid of it, execut ang how versilessed
+of the Mock Turtle dis the pieck Turtle, frow.”
+
+[no was thi
